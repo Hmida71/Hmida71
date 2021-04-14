@@ -10,6 +10,12 @@ I create applications for both the web and Android, most of them using JavaScrip
 
 <hr></hr>
 
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Lunix Logo" with="50" height="50"/>
+
+
+
 <!--
 **Hmida71/Hmida71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

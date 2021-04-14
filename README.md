@@ -8,6 +8,8 @@
 
 I create applications for both the web and Android, most of them using JavaScript and Java, but I also develop myself from other sides!
 
+😛 Good Luck !!
+
 <hr></hr>
 
 🧰 Toolbox

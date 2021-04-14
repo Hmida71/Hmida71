@@ -17,7 +17,7 @@ I create applications for both the web and Android, most of them using JavaScrip
 ---
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmida71&hide=java,css,html&theme=redical&layout=compact)](https://github.com/Hmida71/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmida71&hide=java,css,html&show_icons=true&theme=radical)](https://github.com/Hmida71/github-readme-stats)
 
 
 ![Hmida GitHub stats](https://github-readme-stats.vercel.app/api?username=Hmida71&show_icons=true&theme=radical)

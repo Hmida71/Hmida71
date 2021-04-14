@@ -17,7 +17,11 @@ I create applications for both the web and Android, most of them using JavaScrip
 ---
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats
 
-<img src="https://camo.githubusercontent.com/50a820ce04e97c85a3d689518e3f16cf4e212a2180f26e2daaeef3174a60efe1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636174616c696e70697426686964653d6a6176612c68746d6c2c637373267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmida71&amp;hide=java,html,css&amp;theme=radical" style="max-width:100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hmida71&layout=compact)](https://github.com/Hmida71/github-readme-stats)
+
+
+![Hmida GitHub stats](https://github-readme-stats.vercel.app/api?username=Hmida71&hide=java&show_icons=true&theme=radical)
+
 <!--
 **Hmida71/Hmida71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

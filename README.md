@@ -8,6 +8,7 @@ Inspired software engineer in JavaScript technologies. Professional experience w
 
 I create applications for both the web and Android, most of them using JavaScript and Java, but I also develop myself from other sides!
 
+<hr></hr>
 
 <!--
 **Hmida71/Hmida71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

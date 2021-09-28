@@ -19,6 +19,7 @@ I create applications for both the web and Android & ios, most of them using Jav
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="php Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="php Logo" with="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="php Logo" with="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="php Logo" with="50" height="50"/>
 
 ---
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Stats

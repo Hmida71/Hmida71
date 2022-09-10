@@ -6,7 +6,7 @@
 
 🤡_Inspired software engineer in JavaScript technologies and Flutter 👀. Professional experience with technologies included in the toolbox below.
 
-I create applications for both the web and Android & ios, most of them using JavaScript and Java and flutter , but I also develop myself from other sides 
+I create applications for both the web and Android & ios, most of them using Flutter and javaScript, Java , but I also develop myself from other sides 
 ! 🐱‍👤
 
 😛 Good Luck !!
